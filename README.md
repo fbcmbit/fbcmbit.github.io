@@ -1,3 +1,4 @@
+Click to [continue to the helpdesk](http://helpdesk.fbcmanbybowdler.com)
 ## Welcome to the IT Announcement Hub
 
 We may temporarily redirect people here to make them aware of major issues or planned maintenance on the system.
@@ -12,4 +13,4 @@ Email and BigHand on company mobiles will be unaffected during this time.
 
 ### Support or Contact
 
-You can now click to [continue to the helpdesk](http://helpdesk.fbcmanbybowdler.com)
+Click to [continue to the helpdesk](http://helpdesk.fbcmanbybowdler.com)
