@@ -1,37 +1,15 @@
-## Welcome to GitHub Pagesh
+## Welcome to the IT Announcement Hub
 
-You can use the [editor on GitHub](https://github.com/fbcmbit/fbcmbit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We may temporarily redirect people here to make them aware of major issues or planned maintenance on the system.
+Please see any new announcements below.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 18/11/2021 - Update Announcement
 
-### Markdown
+P4W needs to be upgraded to version 6.2 on Friday 19th November at 6pm . Could you make sure that by 6pm you are logged out of Hosted and do not log back in until 8am on Monday morning please .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email and BigHand on company mobiles will be unaffected during this time.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fbcmbit/fbcmbit.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can now click to [continue to the helpdesk](http://helpdesk.fbcmanbybowdler.com)
