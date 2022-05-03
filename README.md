@@ -1,4 +1,4 @@
-Click to [continue to the helpdesk](http://helpdesk.fbcmanbybowdler.com)
+
 ## Welcome to the IT Announcement Hub
 
 We may temporarily redirect people here to make them aware of major issues or planned maintenance on the system.
@@ -10,5 +10,5 @@ The IT Helpdesk portal is currently unavailable, we are working to resolve this 
 
 
 ### Support or Contact
+[helpdesk@fbcmb.co.uk](mailto:helpdesk@fbcmb.co.uk)
 
-Click to [continue to the helpdesk](http://helpdesk.fbcmanbybowdler.com)
